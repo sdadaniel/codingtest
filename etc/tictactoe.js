@@ -1,3 +1,5 @@
+// 틱택토 에서 위너 판별하기
+
 function tictacto(arr) {
   const lt = arr.length;
   let rowT;
