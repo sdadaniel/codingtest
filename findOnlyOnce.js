@@ -1,3 +1,5 @@
+// 정렬된 배열에서 일련의 값들이 2개씩 반복될 때 유일하게 나온 값을 찾으시오
+
 function findOnlyOnceHelper(arr) {
   return findOnlyOnce(arr, 0, arr.length);
 }
